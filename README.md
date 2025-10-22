@@ -42,7 +42,8 @@ Client:
 
 Server:
 
-<img width="752" height="355" alt="image" src="https://github.com/user-attachments/assets/004dfa5e-228d-40ff-9f0c-cb16ff215a21" />
+<img width="738" height="339" alt="Screenshot 2025-10-22 100740" src="https://github.com/user-attachments/assets/b01ac416-b513-40a4-8f5f-0ab20ebdbec6" />
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
